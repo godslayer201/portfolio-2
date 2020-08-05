@@ -1,1 +1,4 @@
-# portfolio-2
+# PORTFOLIO
+
+Simple and Awesome Portfolio!
+
